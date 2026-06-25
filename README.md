@@ -1,1 +1,35 @@
 # Linux-Command-Line
+- **pwd** (Print Working Directory)
+- **cd** (Change Directory)
+- **ls** (List Directories)
+- **touch**
+- **file**
+- **cat** 
+- **less**
+- **history**
+- **cp** (Copy)
+- **mv** (Move)
+- **mkdir** (Make Directory)
+- **rm** (Remove)
+- **find**
+- **help**
+- **man**
+- **whatis**
+- **alias**
+- **exit**
+- **stdout** (Standard Out)
+- **stdin** (Standard In)
+- **stderr** (Standard Error)
+- **pipe and tee**
+- **env** (Environment)
+- **cut**
+- **paste**
+- **head**
+- **tail**
+- **expand and unexpand**
+- **join and split**
+- **sort**
+- **tr** (Translate)
+- **uniq** (Unique)
+- **wc and nl**
+- **grep**
